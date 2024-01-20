@@ -13,6 +13,8 @@ html{
     border: none;
     font-weight: bold;
     color: darkblue;
+    transition: transform .9s;
+    
     
 
 }
@@ -233,6 +235,8 @@ html{
     color:#FF9843;
     box-shadow: 1px 2px 5px salmon;
     cursor: pointer;
+    transform:rotate(360deg)
+    
 }
 .content{
     text-align: center;
